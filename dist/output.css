@@ -596,10 +596,6 @@ video {
   display: flex;
 }
 
-.h-screen {
-  height: 100vh;
-}
-
 .h-100 {
   height: 399px;
 }
@@ -618,10 +614,6 @@ video {
 
 .h-6 {
   height: 24px;
-}
-
-.w-screen {
-  width: 100vw;
 }
 
 .w-80 {
@@ -714,14 +706,14 @@ video {
   padding-right: 72px;
 }
 
-.px-16 {
-  padding-left: 64px;
-  padding-right: 64px;
-}
-
 .py-4\.5 {
   padding-top: 18px;
   padding-bottom: 18px;
+}
+
+.px-16 {
+  padding-left: 64px;
+  padding-right: 64px;
 }
 
 .py-4 {
